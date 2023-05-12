@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+}
+
+.form-group {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.form-group > label {
+    width: 200px;
+}
+
+span {
+    width: 195px;
+}
+
+.mensaje-error {
+    color: red;
+    display: none;
+    margin-left: 200px;
+}
